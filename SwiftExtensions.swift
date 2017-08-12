@@ -1,6 +1,5 @@
 //
 //  SwiftExtensions.swift
-//  AdvancedTimeTrack
 //
 //  Created by Kacper Kaliński on 11/06/2017.
 //  Copyright © 2017 Kacper Kaliński. All rights reserved.
